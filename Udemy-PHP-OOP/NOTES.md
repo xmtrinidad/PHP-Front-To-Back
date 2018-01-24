@@ -14,4 +14,4 @@ Date Started: 1/24/2018
 
 | Section #      | Summary      | Link       |
 | -------------- | ------------ | ---------- |
-| Section 1 - Getting Started | Basic overview of the course | [a link]() |
+| Section 1 - Getting Started | Basic overview of the course | [Notes](https://github.com/xmtrinidad/PHP-Tutorials/blob/master/Udemy-PHP-OOP/Section%201%20-%20Getting%20Started/section1.md) |
